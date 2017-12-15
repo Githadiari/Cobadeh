@@ -27,7 +27,6 @@ public class Login extends AppCompatActivity {
         edtName=(MaterialEditText)findViewById(R.id.edtName);
         edtPassword=(MaterialEditText)findViewById(R.id.edtPassword);
         btnLogin=(Button) findViewById(R.id.btnLogin);
-        System.out.println("");
 
         //init firebase
         FirebaseDatabase database= FirebaseDatabase.getInstance();
