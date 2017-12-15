@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406542155099",
+    "firebase_url": "https://mydatabase-7311c.firebaseio.com",
+    "project_id": "mydatabase-7311c",
+    "storage_bucket": "mydatabase-7311c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406542155099:android:b6b672fcab46ad5e",
+        "android_client_info": {
+          "package_name": "com.example.windows_10.cobadeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406542155099-1rjjr4j2h8p6l1v4dsp0g3s9jpsl323i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bGSRUGs5wjmXXBKRqDUz_a-NFY8i76Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
